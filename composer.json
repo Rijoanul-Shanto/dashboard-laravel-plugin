@@ -1,0 +1,19 @@
+{
+    "name": "shanto/dashboard",
+    "description": "A simple dashboard with all user list",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rijoanul Hasan Shanto",
+            "email": "rijoanul.shanto@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Shanto\\Dashboard\\": "src/"
+        }
+    }
+}
